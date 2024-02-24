@@ -22,7 +22,7 @@ Link for hosted website : https://yodaji.netlify.app/
 2. Navigate into the project directory:
 
     
-    cd star-wars
+    cd Star-Wars
     
 
 3. Install dependencies:
