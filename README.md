@@ -10,6 +10,7 @@ This is a simple React application that fetches and displays information about p
 - Pagination functionality to navigate through the list of planets.
 - Responsive design with clean layout and user-friendly controls.
 
+Link for hosted website : https://yodaji.netlify.app/
 ## Installation
 
 1. Clone the repository:
