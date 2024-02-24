@@ -16,7 +16,7 @@ Link for hosted website : https://yodaji.netlify.app/
 1. Clone the repository:
 
     
-    git clone https://github.com/ItachI008/react-swapi-planets.git
+    git clone https://github.com/ItachI008/Star-Wars.git
     
 
 2. Navigate into the project directory:
