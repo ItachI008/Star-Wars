@@ -22,7 +22,7 @@ Link for hosted website : https://yodaji.netlify.app/
 2. Navigate into the project directory:
 
     
-    cd react-swapi-planets
+    cd star-wars
     
 
 3. Install dependencies:
