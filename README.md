@@ -52,11 +52,4 @@ Link for hosted website : https://yodaji.netlify.app/
 - SWAPI (Star Wars API)
 - CSS for styling
 
-## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-
---- 
-
-Feel free to customize this README according to your project's specific details and requirements."# Star-Wars" 
